@@ -43,14 +43,6 @@ Instituto Federal do Triângulo Mineiro
   </p>
       
   <small>JavaScript</small>
-  </td>
-      
-      <p>
-      <img align="center" alt="JS" height="35" width="auto"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" ">
-  </p>
-  <small>NestJs</small>
-  </td>
  
     
 
