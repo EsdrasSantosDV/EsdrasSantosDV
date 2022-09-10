@@ -20,8 +20,8 @@ Instituto Federal do Triângulo Mineiro
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             target="_blank"></a>
 </div>
+
     
-**
 
 <br>
 <br>
@@ -41,9 +41,18 @@ Instituto Federal do Triângulo Mineiro
       <img align="center" alt="JS" height="35" width="auto"
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </p>
+      
   <small>JavaScript</small>
   </td>
-
+      
+      <p>
+      <img align="center" alt="JS" height="35" width="auto"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" ">
+  </p>
+  <small>NestJs</small>
+  </td>
+ 
+    
 
   <td align="center" width="120px">
   <p>
