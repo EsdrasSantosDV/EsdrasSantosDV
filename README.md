@@ -61,15 +61,7 @@ Instituto Federal do Triângulo Mineiro
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     </p>
     <small>Angular 2+</small>
-  </td>
-      
-     <td align="center" width="120px">
-    <p>
-        <img align="center" alt="Adonis" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
-    </p>
-    <small>Adonis</small>
-  </td> 
+ 
 
   <td align="center" width="120px">
     <p>
