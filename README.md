@@ -1,16 +1,16 @@
-### Hi there 👋
+### Saudações meu nome é Esdras👋
 
-<!--
-**EsdrasSantosDV/EsdrasSantosDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="profile" height="150" style="border-radius:50px;"
+    src="https://media.discordapp.net/attachments/956389426337050625/956389455567130694/luffy.jpeg?width=960&height=564">
+<div style="display: inline_block;">
+<br>
+🎓 Estou cursando o 8º Perído de Engenharia da Computação do Instituto Federal do Triangulo Mineiro
 
-Here are some ideas to get you started:
+<br>
+🌱 Estou estudando Java e Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+🎮 Gosto de jogar CS:GO, Mount and Blade,Valorant,Jogos de Estrategia Militar no Geral ...
+
+<br>
+🎨 Também gosto de Ler Livros de Historia,Programação,Matematica.
