@@ -274,15 +274,14 @@ Instituto Federal do Triângulo Mineiro
 <br>
 <br>
 <div align="center">
-    <a href="https://github.com/EsdrasSantosDV"> </a>
-    <img height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=EsdrasSantosDV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasSantosDV&layout=compact&langs_count=10&theme=dracula" />
+  <a href="https://beacons.ai/EsdrasSantosDV">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsdrasSantosDV&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasSantosDV&layout=compact&langs_count=16&theme=white"/>
 
   
   ![Snake animation](https://github.com/EsdrasSantosDV/EsdrasSantosDV/blob/output/github-contribution-grid-snake.svg)
 </div>
+    
 
 <br>
 <br>
