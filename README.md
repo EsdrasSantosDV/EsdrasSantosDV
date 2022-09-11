@@ -284,3 +284,11 @@ Instituto Federal do Triângulo Mineiro
 
   ![Snake animation](https://github.com/EsdrasSantosDV/EsdrasSantosDV/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<br>
+<br>
+<h3 align="center">Você é o visitante:</h3>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/EsdrasSantosDV/count.svg" />
+</p>
+</div>
