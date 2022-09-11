@@ -187,9 +187,9 @@ Instituto Federal do Triângulo Mineiro
   <td align="center" width="120px">
     <p>
         <img align="center" alt="Bootstrap" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </p>
-    <small>Bootstrap</small>
+    <small>Python</small>
 
  
 
@@ -239,13 +239,7 @@ Instituto Federal do Triângulo Mineiro
   </td>
 
 
-  <td align="center" width="120px">
-    <p>
-  <img align="center" alt="Python" height="35" width="auto"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </p>
-    <small>Python</small>
-  </td>
+ 
 
   
 
