@@ -187,7 +187,7 @@ Instituto Federal do Triângulo Mineiro
   <td align="center" width="120px">
     <p>
         <img align="center" alt="Bootstrap" height="35" width="auto"
-             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
     </p>
     <small>Python</small>
 
