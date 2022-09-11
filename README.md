@@ -36,14 +36,22 @@ Instituto Federal do Triângulo Mineiro
 <div>
   <table>
   <tr style="width=100%">
-  <td align="center" width="120px">
+   
+   <td align="center" width="120px">
   <p>
-      <img align="center" alt="JS" height="35" width="auto"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="NestJS" height="50" width="auto"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   </p>
-  <small>JavaScript</small>
+  <small>NestJS</small>
   </td>
-
+ <td align="center" width="120px">
+    <p>
+        <img align="center" alt="JAVA" height="50" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </p>
+    <small>Java</small>
+  </td>
+  
 
   <td align="center" width="120px">
   <p>
@@ -52,7 +60,15 @@ Instituto Federal do Triângulo Mineiro
   </p>
   <small>TypeScript</small>
   </td>
-
+      
+  <td align="center" width="120px">
+  <p>
+      <img align="center" alt="JS" height="35" width="auto"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </p>
+  <small>JavaScript</small>
+  </td>
+      
 
   <td align="center" width="120px">
     <p>
@@ -63,14 +79,13 @@ Instituto Federal do Triângulo Mineiro
   </td>
 
 
-  <td align="center" width="120px">
+ <td align="center" width="120px">
     <p>
-        <img align="center" alt="IONIC" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+        <img align="center" alt="Angular" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     </p>
-    <small>IONIC</small>
+    <small>Mysql</small>
   </td>
-
 
   <td align="center" width="120px">
     <p>
@@ -81,34 +96,104 @@ Instituto Federal do Triângulo Mineiro
   </td>
 
 
+ <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Bootstrap" height="35" width="auto"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    </p>
+    <small>Spring</small>
+  </td>
   <td align="center" width="120px">
     <p>
         <img align="center" alt="Bootstrap" height="35" width="auto"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     </p>
     <small>Bootstrap</small>
+
+ 
+
+  </table>
+      
+   <table>
+  <tr style="width=100%">
+ 
+   <td align="center" width="120px">
+  <p>
+    <img align="center" alt="NestJS" height="50" width="auto"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  </p>
+  <small>Sequelize</small>
+  </td>
+    
+ <td align="center" width="120px">
+    <p>
+        <img align="center" alt="JAVA" height="50" width="auto"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    </p>
+    <small>Docker</small>
   </td>
   
 
   <td align="center" width="120px">
-    <p>
-        <img align="center" alt="SQLite" height="50" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-    </p>
-    <small>SQLite</small>
+  <p>
+      <img align="center" alt="TS" height="35" width="auto"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" >
+  </p>
+  <small>Firebase</small>
   </td>
       
   <td align="center" width="120px">
   <p>
-    <img align="center" alt="PostgreSQL" height="50" width="auto" style="color:white"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+      <img align="center" alt="JS" height="35" width="auto"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg">
   </p>
-  <small>PostgreSQL</small>
-  </tr>
+  <small>Jasmine</small>
+  </td>
+      
 
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Angular" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
+    </p>
+    <small>Kubernetes</small>
   </td>
 
-  </table>
+
+ <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Angular" height="35" width="auto"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    </p>
+    <small>Vue Js</small>
+  </td>
+
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt="NodeJS" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+    </p>
+    <small>Matlab</small>
+  </td>
+
+
+ <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Bootstrap" height="35" width="auto"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg">
+    </p>
+    <small>Karma</small>
+  </td>
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Bootstrap" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+    </p>
+    <small>Bootstrap</small>
+
+ 
+
+  </table>   
 </div>
 </div>
 
@@ -132,13 +217,7 @@ Instituto Federal do Triângulo Mineiro
   </td>
   
 
-  <td align="center" width="120px">
-  <p>
-    <img align="center" alt="NestJS" height="50" width="auto"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  </p>
-  <small>NestJS</small>
-  </td>
+ 
   
 
 
@@ -170,14 +249,7 @@ Instituto Federal do Triângulo Mineiro
 
   
 
-  <td align="center" width="120px">
-    <p>
-        <img align="center" alt="JAVA" height="50" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    </p>
-    <small>JAVA</small>
-  </td>
-  
+ 
 
   <td align="center" width="120px">
     <p>
@@ -188,6 +260,8 @@ Instituto Federal do Triângulo Mineiro
   </td>
 
   </tr>
+      
+      
 
   </table>
 </div>
