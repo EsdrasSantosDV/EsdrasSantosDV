@@ -280,7 +280,7 @@ Instituto Federal do Triângulo Mineiro
     <img height="160em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasSantosDV&layout=compact&langs_count=10&theme=dracula" />
 
-  <br>
+  
   ![Snake animation](https://github.com/EsdrasSantosDV/EsdrasSantosDV/blob/output/github-contribution-grid-snake.svg)
 </div>
 
