@@ -41,10 +41,9 @@ Instituto Federal do Triângulo Mineiro
       <img align="center" alt="JS" height="35" width="auto"
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </p>
-      
   <small>JavaScript</small>
- 
-    
+  </td>
+
 
   <td align="center" width="120px">
   <p>
@@ -61,7 +60,17 @@ Instituto Federal do Triângulo Mineiro
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     </p>
     <small>Angular 2+</small>
- 
+  </td>
+
+
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt="IONIC" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
+    </p>
+    <small>IONIC</small>
+  </td>
+
 
   <td align="center" width="120px">
     <p>
@@ -80,3 +89,124 @@ Instituto Federal do Triângulo Mineiro
     <small>Bootstrap</small>
   </td>
   
+
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt="SQLite" height="50" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+    </p>
+    <small>SQLite</small>
+  </td>
+      
+  <td align="center" width="120px">
+  <p>
+    <img align="center" alt="PostgreSQL" height="50" width="auto" style="color:white"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  </p>
+  <small>PostgreSQL</small>
+  </tr>
+
+  </td>
+
+  </table>
+</div>
+</div>
+
+
+<br>
+<br>
+<div style="display: inline_block; margin-top: 50px;" align="center">
+
+<p>Tecnologias que estou buscando aprender mais:</p>
+
+  <table>
+  <tr style="width=100%">
+
+
+  <td align="center" width="120px">
+  <p>
+    <img align="center" alt="React" height="50" width="auto"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </p>
+  <small>React</small>
+  </td>
+  
+
+  <td align="center" width="120px">
+  <p>
+    <img align="center" alt="NestJS" height="50" width="auto"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  </p>
+  <small>NestJS</small>
+  </td>
+  
+
+
+  <td align="center" width="120px">
+    <p>
+  <img align="center" alt="Kotlin" height="35" width="auto"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+    </p>
+    <small>Kotlin</small>
+  </td>
+
+
+  <td align="center" width="120px">
+    <p>
+  <img align="center" alt="Flutter" height="35" width="auto"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    </p>
+    <small>Flutter</small>
+  </td>
+
+
+  <td align="center" width="120px">
+    <p>
+  <img align="center" alt="Python" height="35" width="auto"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </p>
+    <small>Python</small>
+  </td>
+
+  
+
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt="JAVA" height="50" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    </p>
+    <small>JAVA</small>
+  </td>
+  
+
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt=".NET" height="50" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    </p>
+    <small>.NET</small>
+  </td>
+
+  </tr>
+
+  </table>
+</div>
+
+<br>
+<br>
+
+##
+
+<br>
+<br>
+<div align="center">
+    <a href="https://github.com/EsdrasSantosDV"> </a>
+    <img height="160em"
+        src="https://github-readme-stats.vercel.app/api?username=EsdrasSantosDV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="160em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsdrasSantosDV&layout=compact&langs_count=10&theme=dracula" />
+
+  <br>
+
+  ![Snake animation](https://github.com/EsdrasSantosDV/EsdrasSantosDV/blob/output/github-contribution-grid-snake.svg)
+</div>
