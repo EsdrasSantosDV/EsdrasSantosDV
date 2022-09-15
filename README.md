@@ -106,9 +106,9 @@ Instituto Federal do Triângulo Mineiro
   <td align="center" width="120px">
     <p>
         <img align="center" alt="Bootstrap" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+            src="https://www.svgrepo.com/show/354245/quarkus-icon.svg">
     </p>
-    <small>Bootstrap</small>
+    <small>Quarkus</small>
 
  
 
@@ -202,7 +202,7 @@ Instituto Federal do Triângulo Mineiro
 <br>
 <div style="display: inline_block; margin-top: 50px;" align="center">
 
-<p>Tecnologias que estou buscando aprender mais:</p>
+<p>Tecnologias que estou buscando conhecer:</p>
 
   <table>
   <tr style="width=100%">
@@ -253,8 +253,48 @@ Instituto Federal do Triângulo Mineiro
     <small>.NET</small>
   </td>
 
-  </tr>
       
+
+  </table>
+</div>
+</div>
+
+
+<br>
+<br>
+<div style="display: inline_block; margin-top: 50px;" align="center">
+
+<p>Tecnologias que estou me Especializando</p>
+
+  <table>
+  <tr style="width=100%">
+ <td align="center" width="120px">
+  <p>
+    <img align="center" alt="NestJS" height="50" width="auto"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  </p>
+  <small>NestJS</small>
+  </td>
+
+  
+  </td>
+<td align="center" width="120px">
+    <p>
+        <img align="center" alt="Bootstrap" height="35" width="auto"
+            src="https://www.svgrepo.com/show/354245/quarkus-icon.svg">
+    </p>
+    <small>Quarkus</small>
+    </td>
+     <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Angular" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+    </p>
+    <small>Angular 2+</small>
+  </td>
+      
+  </tr>
+ 
       
 
   </table>
