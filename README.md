@@ -202,7 +202,7 @@ Instituto Federal do Triângulo Mineiro
 <br>
 <div style="display: inline_block; margin-top: 50px;" align="center">
 
-<p>Tecnologias que estou buscando conhecer:</p>
+<p>Tecnologias que busco desbravar:</p>
 
   <table>
   <tr style="width=100%">
