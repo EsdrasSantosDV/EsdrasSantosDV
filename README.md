@@ -61,13 +61,7 @@ Instituto Federal do Triângulo Mineiro
   <small>TypeScript</small>
   </td>
       
-  <td align="center" width="120px">
-  <p>
-      <img align="center" alt="JS" height="35" width="auto"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </p>
-  <small>JavaScript</small>
-  </td>
+
       
 
   <td align="center" width="120px">
@@ -134,56 +128,10 @@ Instituto Federal do Triângulo Mineiro
   </td>
   
 
-  <td align="center" width="120px">
-  <p>
-      <img align="center" alt="TS" height="35" width="auto"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" >
-  </p>
-  <small>Firebase</small>
-  </td>
-      
-  <td align="center" width="120px">
-  <p>
-      <img align="center" alt="JS" height="35" width="auto"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg">
-  </p>
-  <small>Jasmine</small>
-  </td>
-      
-
-  <td align="center" width="120px">
-    <p>
-        <img align="center" alt="Angular" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-    </p>
-    <small>Kubernetes</small>
-  </td>
+ 
 
 
- <td align="center" width="120px">
-    <p>
-        <img align="center" alt="Angular" height="35" width="auto"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    </p>
-    <small>Vue Js</small>
-  </td>
-
-  <td align="center" width="120px">
-    <p>
-        <img align="center" alt="NodeJS" height="35" width="auto"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
-    </p>
-    <small>Matlab</small>
-  </td>
-
-
- <td align="center" width="120px">
-    <p>
-        <img align="center" alt="Bootstrap" height="35" width="auto"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg">
-    </p>
-    <small>Karma</small>
-  </td>
+ 
   <td align="center" width="120px">
     <p>
         <img align="center" alt="Bootstrap" height="35" width="auto"
