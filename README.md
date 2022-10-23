@@ -8,13 +8,13 @@
 Instituto Federal do Triângulo Mineiro
 
 <br>
-🌱 Estou estudando Java e Python
+🌱 Estudando NestJs e Angular
 
 <br>
-🎮 Gosto de jogar CS:GO, Mount and Blade,Valorant,Rome 2 Total War
+🎮 Gosto de jogar CS:GO, Mount and Blade, Valorant, Rome 2 Total War
 
 <br>
-🎨 Sou amante de História Militar,Matemática,e conteudos Geek no Geral.
+🎨 Amante de História Militar, Matemática, e conteudos Geek no Geral.
 <div align="center">
        <a href="https://www.instagram.com/esdras_sdo/" target="_blank"><img
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
