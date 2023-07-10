@@ -8,7 +8,7 @@
 Instituto Federal do Triângulo Mineiro
 
 <br>
-🌱 Estudando NestJs e Angular
+🌱 Estudando NestJs e Angular, Spring, Quarkus
 
 <br>
 🎮 Gosto de jogar CS:GO, Mount and Blade, Valorant, Rome 2 Total War
