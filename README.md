@@ -11,7 +11,7 @@ Instituto Federal do Triângulo Mineiro
 🌱 Estudando NestJs e Angular, Spring, Quarkus
 
 <br>
-🎮 Gosto de passar o tempo livre com minha namorada e tbm gosto de me diveritr jogando com meus amigos.
+🎮 Gosto de passar o tempo livre com minha namorada e tbm gosto de me divertir jogando com meus amigos.
 <br>
 🎨 Amante de História Militar, Matemática, e conteudos Geek no Geral.
 <div align="center">
