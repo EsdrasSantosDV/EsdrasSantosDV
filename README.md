@@ -4,7 +4,7 @@
     src="https://avatars.cloudflare.steamstatic.com/e2d404d5d088fede8788d1df9c7297048b40b1a2_full.jpg? width=960&height=564">
 <div style="display: inline_block;">
 <br>
-🎓 Engenheiro de Computação
+🎓 Engenheiro de Computação pelo IFTM - Campus Uberaba 
 
 <br>
 🌱 Estudando NestJs e Angular, Spring, Quarkus
