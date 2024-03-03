@@ -210,13 +210,6 @@
 
   <table>
   <tr style="width=100%">
- <td align="center" width="120px">
-  <p>
-    <img align="center" alt="NestJS" height="50" width="auto"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  </p>
-  <small>NestJS</small>
-  </td>
 
   
   </td>
