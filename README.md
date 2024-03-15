@@ -10,7 +10,7 @@
 🌱 Estudando NestJs e Angular, Spring, Quarkus
 
 <br>
-🎮 Gosto de passar o tempo livre com minha namorada e tbm gosto de me divertir jogando um CS com meus amigos.
+🎮 Gosto de passar o tempo livre com minha namorada e também gosto de me divertir jogando um CS com meus amigos.
 <br>
 🎨 Amante de História Militar, Matemática, e conteudos Geek no Geral.
 <div align="center">
