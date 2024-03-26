@@ -7,7 +7,7 @@
 🎓 Engenheiro de Computação pelo IFTM - Campus Uberaba 
 
 <br>
-🌱 Estudando NestJs e Angular, Spring, Quarkus
+🌱 Estudando Cloud, Infra, Nginx
 
 <br>
 🎮 Gosto de passar o tempo livre com minha namorada e também gosto de me divertir jogando um CS com meus amigos.
